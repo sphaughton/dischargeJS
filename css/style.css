@@ -1,0 +1,24 @@
+a:link {color: rgb(0, 0, 0); text-decoration: none; }
+a:active {color: rgb(0, 0, 0); text-decoration: none; }
+a:visited {color: rgb(0, 0, 0); text-decoration: none; }
+a:hover {color: rgb(0, 0, 0); text-decoration: none; }
+
+body {
+  vertical-align: middle;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+  margin: 10px;
+  padding: 25;
+  background: no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+  text-align: center;
+  font-family: 'Helvetica Bold', sans-serif, bold, fixed;
+  font-size: 100px;
+  color: rgb(0, 0, 0);
+  line-height: 105px
+}
